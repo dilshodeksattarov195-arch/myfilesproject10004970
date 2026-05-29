@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerpetch",
+        "uuid": 38641750,
+        "checksum": "d7bee"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
